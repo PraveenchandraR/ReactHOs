@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import ClassCompo from './components/ClassComponent';
 import FunctionComponent  from './components/FunctionComponent';
